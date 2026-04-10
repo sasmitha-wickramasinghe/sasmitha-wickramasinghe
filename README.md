@@ -44,10 +44,6 @@ I am currently in the learning phase and enjoy building my knowledge from the fu
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/sasmitha-wickramasinghe/sasmitha-wickramasinghe/output/github-contribution-grid-snake-dark.svg?v=3" />
 </p>
 
@@ -57,14 +53,6 @@ I am currently in the learning phase and enjoy building my knowledge from the fu
 
 - 📧 Email: ssasmithav0323@gmail.com  
 - 💼 LinkedIn: [Sasmitha Wickramasinghe](https://www.linkedin.com/in/sasmitha-wickramasinghe)
-
----
-
-## ⚡ Fun Line
-
-<p align="center">
-  <b>“Securing systems. Learning intelligence. Building the future.”</b>
-</p>
 
 ---
 
