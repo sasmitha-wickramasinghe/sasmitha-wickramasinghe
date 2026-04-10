@@ -1,4 +1,4 @@
-name: Generate Neon Snake Animation
+name: Generate GitHub Snake (Dark Cyber Style)
 
 on:
   schedule:
@@ -13,7 +13,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate Neon Snake
+      - name: Generate snake (DARK STYLE)
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -21,12 +21,6 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
-
-          # ⚡ Neon cyber palette (this is the glow effect trick)
-          color_snake: "#00F5FF"
-          color_dots: "#0d1117"
-          color_dots_individual: "#00ffcc,#00f5ff,#ff00ff"
-          color_background: "#000000"
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
