@@ -48,8 +48,9 @@ I am currently in the learning phase and enjoy building my knowledge from the fu
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sasmitha-wickramasinghe/sasmitha-wickramasinghe/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/sasmitha-wickramasinghe/sasmitha-wickramasinghe/output/github-contribution-grid-snake-dark.svg?v=3" />
 </p>
+
 ---
 
 ## 🌐 Connect With Me
